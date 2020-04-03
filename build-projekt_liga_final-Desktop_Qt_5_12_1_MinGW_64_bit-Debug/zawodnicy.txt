@@ -1,0 +1,58 @@
+barcelona
+Messi Suarez Dembele Coutinho Rakitic 6
+real
+Benzema Bale Isco Modric Ramos 6
+atletico
+Greizmann Morata Koke Niguez Godin 5
+valencia
+Parejo Gameiro Mina Moreno Guedes 3
+getafe
+Mata Molina Rodriguez Folquier Cabrera 2
+sevilla
+Yedder Sarabia banega Haddadi Vazquezw 4
+bayern
+Lewandowski Gnabry Goretzka Rodriguez Muller 5
+borussia
+Alcacer Reus Sancho Gotze Guerreiro 4
+Lipsk
+Werner Poulser Augustin Klostermann Cunha 3
+wolfsburg
+Weghorst Mehmedi Ginczek Steffen Brooks 2
+schalke
+Caligiuri Bentaleb Embolo Burgstaller Skrzybski 2
+ajax
+Tadic Ziyech Huntelaar Dolberg Beek 4
+psv
+Jong Lozano Bergwijn Pereiro Malen 1
+chelsea
+Hazard Giroud Pedro Morata Willian 5
+psg
+Neymar Mbappe Cavani Di Maria Marquinhos 5
+lyon
+Dembele Fekir Depay Terrier Traore 1
+manchester united
+Pogba Lukaku Rashford Martial Mata 4
+manchester city
+Aguero Sterling Jesus Sane Silva 5
+arsenal
+Aubameyang Lacazette Mkhitaryan Ramsey Ozil 4
+tottenham
+Kane Son Moura Eriksen LLorente 4
+liverpool
+Salah Mane Firmino Milner Origi 5
+everton
+Richarlison Gylfi Sigurdsson Walcott Calvert-Lewin 2
+juventus
+Ronaldo Dybala Mandzukic Kean Can 5
+milan
+Piatek Cutrone Suso Kessie Castillejo 3
+napoli
+Milik Mertens Insigne Zielinski Callejon 4
+inter
+Icardi Perisic Martinez Nainggolan Politano 3
+atalanta
+Zapata Ilicic Gomez Hateboer Mancini 2
+roma
+Dzeko Shaarawy Kolarov Zaniolo Under 3
+legia
+RadAovic Kucharczyk Hamalainen Carlitos Niezgoda 1
